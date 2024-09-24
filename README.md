@@ -1,6 +1,7 @@
 # Flexible Scorer Library
 
-This is a flexible scoring library that allows you to initialize a `FlexibleScorer` object and score data.
+Flexible Scorer is a Python library that allows you to evaluate and score text content based on custom criteria using OpenAI's GPT models. It provides a systematic way to assess texts, taking advantage of AI's capabilities to interpret and analyze content according to user-defined parameters.
+
 
 ## Installation
 
